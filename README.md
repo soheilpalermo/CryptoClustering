@@ -1,6 +1,6 @@
 # Cryptocurrency Price Change Analysis and Clustering
 ## Project Overview
-This project implements an unsupervised machine learning approach to analyze and cluster cryptocurrencies based on their price change patterns across different timeframes. Using Python and various data science libraries, we perform clustering analysis to identify groups of cryptocurrencies that exhibit similar price behavior patterns.
+#### - This project implements an unsupervised machine learning approach to analyze and cluster cryptocurrencies based on their price change patterns across different timeframes. Using Python and various data science libraries, we perform clustering analysis to identify groups of cryptocurrencies that exhibit similar price behavior patterns.
 Features
 
 Price change analysis across multiple timeframes (24h, 7d, 14d, 30d, 60d, 200d, 1y)
