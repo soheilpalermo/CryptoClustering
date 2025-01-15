@@ -1,6 +1,5 @@
 
-### Gist Summary for GitHub Description
-Clustering cryptocurrencies using machine learning! 🚀 This project groups cryptocurrencies based on market performance using K-Means and PCA. Interactive visualizations, Elbow Curves, and clustering analysis make this a comprehensive exploration of market trends. Check out the results and contribute to the analysis! 🧠💹
+- Clustering cryptocurrencies using machine learning! 🚀 This project groups cryptocurrencies based on market performance using K-Means and PCA. Interactive visualizations, Elbow Curves, and clustering analysis make this a comprehensive exploration of market trends. Check out the results and contribute to the analysis! 🧠💹
 
 # Cryptocurrency Price Change Analysis and Clustering
 ## Project Objectives
