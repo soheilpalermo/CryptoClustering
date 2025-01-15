@@ -1,7 +1,7 @@
 
-- Clustering cryptocurrencies using machine learning! 🚀 This project groups cryptocurrencies based on market performance using K-Means and PCA. Interactive visualizations, Elbow Curves, and clustering analysis make this a comprehensive exploration of market trends. Check out the results and contribute to the analysis! 🧠💹
+## Clustering cryptocurrencies using machine learning! 🚀
+- This project groups cryptocurrencies based on market performance using K-Means and PCA. Interactive visualiسations, Elbow Curves, and clustering analysis make this a comprehensive exploration of market trends. Check out the results and contribute to the analysis! 🧠💹
 
-# Cryptocurrency Price Change Analysis and Clustering
 ## Project Objectives
 1. Preprocess and scale cryptocurrency market data for clustering analysis.
 2. Use **K-Means clustering** to group cryptocurrencies based on price change metrics.
