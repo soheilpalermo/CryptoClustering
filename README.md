@@ -21,12 +21,11 @@
   - Apply PCA to reduce the number of features while preserving key variance.
   - Visualize clustering results in a simplified 2D space.
 
-- **Visualization:**
+- **Visualisation:**
   - Plot Elbow Curves to identify the optimal number of clusters.
-  - Use interactive scatter plots (via hvPlot) to visualize clustering patterns.
+  - Use interactive scatter plots (via hvPlot) to visualise clustering patterns.
 
 ### Technologies Used
-
 - Python
 - Pandas for data manipulation
 - scikit-learn for machine learning algorithms
